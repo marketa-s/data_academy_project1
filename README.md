@@ -35,3 +35,5 @@ Korelace však neznamená kauzalitu! Tj. nevypovídá nutně o vzájemném ovliv
 
 ### Závěrem
 Určitě místy existují efektivnější způsoby řešení, budu vděčná za feedback! Díky :)
+### Discord
+marketa9432
